@@ -1,0 +1,8 @@
+.game {
+  text-align: center;
+  vertical-align: center;
+}
+
+.row {
+    display: flex;
+}
